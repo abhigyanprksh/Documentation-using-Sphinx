@@ -40,7 +40,7 @@ Using Markdown
 Using with Read the Docs
 ************************
 
-* Since we have already create a ``.readthedocs.yml`` file, all we need to do is to import the repository on Read the Docs and proceed with the build. Project name and versioning can be specified there. 
+* Since we have already created a ``.readthedocs.yml`` file, all we need to do is to import the repository on Read the Docs and proceed with the build. Project name and versioning can be specified there. 
 
 
 **************************
