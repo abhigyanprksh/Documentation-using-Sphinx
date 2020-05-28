@@ -20,7 +20,7 @@ GitHub Setup
 *************
 
 * Create a git repository. The hierarchy of directories are a matter of choice. Setup explained here is with respect to the setup `here <https://github.com/abhigyanprksh/Documentation-using-Sphinx>`_.
-* ``docs/``: All the documentation content goes here. By default, Sphinx, by default, expects the content to be in reStructuredText format.
+* ``docs/``: All the documentation content goes here. Sphinx, by default, expects the content to be in reStructuredText format.
 * ``docs/conf.py``: All the configurations for building the documents are specified here. Some of the configurable attributes are explained `here <https://www.sphinx-doc.org/en/master/usage/configuration.html>`_.
 * ``.readthedocs.yml``: It is a `configuration <https://docs.readthedocs.io/en/stable/config-file/index.html>`_ file used by Read the Docs. It specifies attributes like document generation engine, path to the configuration file (``conf.py``), python version and path to a ``requirements.txt`` file to specify additional dependencies.
 * ``requirements/requirements.txt``: This file lists any additional dependencies for the build. 
