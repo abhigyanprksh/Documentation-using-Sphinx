@@ -1,7 +1,4 @@
 
-
-.. toctree::
-   :local:
    
 
 
@@ -65,6 +62,7 @@ Click on `Make live` to turn the code snippet into an executable widget.
 
   	name = 'world'
   	print('hello ' + name + '!')
+
 
 
 
