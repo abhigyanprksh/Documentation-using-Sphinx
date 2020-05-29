@@ -64,7 +64,7 @@ html_theme_options = {
 
     # Set the name of the project to appear in the navigation.
     'nav_title': 'Cratekube Documentation',
-
+    "logo_icon": "&#xe5c8",
         
 
     # Set the color and the accent color
@@ -89,8 +89,12 @@ html_theme_options = {
             "href": "https://github.com/cratekube",
             "internal": False,
             "title": "Cratekube on Github",
-        },
-    ]
+        }
+    ],
+
+   	"heroes": {
+        "index": "CrateKube is an open source container management platform for Kubernetes clusters"
+        }
 
             
 }
